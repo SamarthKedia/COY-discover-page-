@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+# runtime database (re-created from seed on first request)
+data/db.json
+data/*.tmp
+.env*.local
+.DS_Store
